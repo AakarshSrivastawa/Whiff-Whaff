@@ -11,3 +11,6 @@ The game is played by using the following keys:
     - down: `down arrow`
 
 The objective of the game is to make the ball go past the opponent's paddle.
+
+## Play the Game here
+https://aakarshsrivastawa.github.io/Whiff-Whaff/
